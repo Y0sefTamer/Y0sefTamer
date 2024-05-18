@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoseftamer&label=Profile%20views&color=0e75b6&style=flat" alt="yoseftamer" /> </p>
 
-<p align="left"> <a href="https://twitter.com/yosefta64490398" target="blank"><img src="https://img.shields.io/twitter/follow/yosefta64490398?logo=twitter&style=for-the-badge" alt="yosefta64490398" /></a> </p>
 
 - 🌱 I’m currently learning **Java**
 
