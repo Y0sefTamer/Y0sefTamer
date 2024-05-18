@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/yosefta64490398" target="blank"><img src="https://img.shields.io/twitter/follow/yosefta64490398?logo=twitter&style=for-the-badge" alt="yosefta64490398" /></a> </p>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Android,start programming**
 
