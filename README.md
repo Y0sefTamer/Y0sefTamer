@@ -19,9 +19,9 @@
 ---
 
 ### 📫 Connect With Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yourusername)
-- 🧠 [My ICP Projects](https://github.com/yourusername?tab=repositories&q=icp&type=&language=)
-- 💌 youremail@example.com
+- 🌐 [LinkedIn](https://www.linkedin.com/in/yosef-tamer-a740b4310/)
+- 🧠 [My ICP Projects](https://github.com/Y0sefTamer)
+- 💌 yosefmix12@gmail.com
 
 ---
 
