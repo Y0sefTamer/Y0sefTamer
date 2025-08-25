@@ -1,39 +1,51 @@
-## 👋 Hey! I'm yosef
+<h1 align="center">Hey 👋, I'm Yosef</h1>
 
-🎯 Web3 Developer | Rust & React Enthusiast | Building on the Internet Computer (ICP)
-
----
-
-### 🛠️ Currently Building:
-🚀 **Flopay** – A decentralized offline-first payment gateway, an alternative to legacy cash services (like Fawry) built on the Internet Computer Protocol.  
-🔗 [Learn more](https://github.com/YourUsername/Flopay)
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+</p>
 
 ---
 
-### 💡 About Me
-- 💻 Passionate about decentralized applications & financial inclusion
-- 🦀 Rust & Motoko learner, currently building scalable canisters on ICP
-- 🌍 Interested in real-world impact through Web3 technologies in MENA & Africa
-- 👨‍💻 Previous experience: Android apps | Now focusing on full-stack dApps
+### 🚀 About Me  
+- 💻 Android Developer (Java)  
+- 🌐 Currently diving into **Web3 & Blockchain**  
+- 🛠️ Building on **Internet Computer (ICP)** using **Rust & React**  
+- 🎯 Goal: Become a **Full-Stack Web3 Developer** & Tech Founder  
 
 ---
 
-### 📫 Connect With Me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/yosef-tamer-a740b4310/)
-- 🧠 [My ICP Projects](https://github.com/Y0sefTamer)
-- 💌 yosefmix12@gmail.com
+### 🛠️ Tech Stack  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,html,css,js,react,rust,git,github" />
+</p>
 
 ---
 
-### 🧰 Languages & Tools
-![Rust](https://img.shields.io/badge/-Rust-black?style=flat-square&logo=rust)
-![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
-![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Y0sefTamer&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y0sefTamer&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
-> 🚧 Currently participating in the **ICP Hackathon WCHL25**, stay tuned for more updates!
+### 🔥 Streak Stats  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Y0sefTamer&theme=tokyonight" />
+</p>
+
+---
+
+### 🌐 Connect with Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/yosef-tamer-a740b4310/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Y0sefTamer"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>
+  <a href="mailto:yosefmix12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### ⚡ Fun Fact  
+> "I’m not just coding, I’m building the future 🚀"
