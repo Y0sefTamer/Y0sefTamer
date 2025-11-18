@@ -7,9 +7,9 @@
 ---
 
 ### 🚀 About Me  
-- 💻 Android Developer (Java)  
-- 🌐 Currently diving into **Web3 & Blockchain**  
-- 🛠️ Building on **Internet Computer (ICP)** using **Rust & React**  
+- 💻 Web3 & Blockchain developer  
+- 🌐 Currently diving into **Learning more about Web3 & Blockchain**  
+- 🛠️ Building on **Polkadot and Internet Computer (ICP)** using **Rust & React**  
 - 🎯 Goal: Become a **Full-Stack Web3 Developer** & Tech Founder  
 
 ---
