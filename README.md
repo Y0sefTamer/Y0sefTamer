@@ -9,7 +9,7 @@
 ### 🚀 About Me  
 - 💻 Web3 & Blockchain developer  
 - 🌐 Currently diving into **Learning more about Web3 & Blockchain**  
-- 🛠️ Building on **Polkadot and Internet Computer (ICP)** using **Rust & React**  
+- 🛠️ Building use **Rust & Solidity**  
 - 🎯 Goal: Become a **Full-Stack Web3 Developer** & Tech Founder  
 
 ---
