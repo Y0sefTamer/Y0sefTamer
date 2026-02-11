@@ -37,10 +37,11 @@ I am a **Computer Science Student** and a passionate **Blockchain Developer** sp
 
 ### 📊 GitHub Stats
 
-![Y0sef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Y0sefTamer&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y0sefTamer&layout=compact&theme=tokyonight&hide_border=true)
-
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Y0sefTamer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="150" alt="stats graph" />
+  
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Y0sefTamer&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
+</div>
 <br>
 
 <p align="center">
