@@ -1,51 +1,70 @@
-<h1 align="center">Hey 👋, I'm Yosef</h1>
+<h1 align="center">Hi there, I'm Yosef 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Blockchain+Developer;Solidity+%26+Rust+Enthusiast;Computer+Science+Student;Building+the+Decentralized+Future" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </p>
 
 ---
 
-### 🚀 About Me  
-- 💻 Web3 & Blockchain developer  
-- 🌐 Currently diving into **Learning more about Web3 & Blockchain**  
-- 🛠️ Building use **Rust & Solidity**  
-- 🎯 Goal: Become a **Full-Stack Web3 Developer** & Tech Founder  
+### 🚀 About Me
+
+I am a **Computer Science Student** and a passionate **Blockchain Developer** specializing in the **Ethereum Ecosystem**. I focus on building secure, efficient, and scalable smart contracts.
+
+- 🔭 **Current Focus:** Deep diving into **Ethereum Virtual Machine (EVM)** architecture and **DeFi** protocols.
+- 💻 **Core Stack:** Writing secure Smart Contracts using **Solidity** & **Rust**.
+- 🛠️ **Learning:** Advanced patterns in Solidity, Gas Optimization, and Web3 Security.
+- 🎯 **Goal:** To become a specialized **Smart Contract Engineer** & Tech Founder.
 
 ---
 
-### 🛠️ Tech Stack  
+### 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,html,css,js,react,rust,git,github" />
+  <img src="https://skillicons.dev/icons?i=solidity,rust,cpp,java,kotlin" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,androidstudio" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vim" />
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
+
+![Y0sef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Y0sefTamer&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Y0sefTamer&layout=compact&theme=tokyonight&hide_border=true)
+
+<br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Y0sefTamer&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y0sefTamer&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=Y0sefTamer&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
 </p>
 
 ---
 
-### 🔥 Streak Stats  
+### 🌐 Let's Connect
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Y0sefTamer&theme=tokyonight" />
+  <a href="https://www.linkedin.com/in/yosef-tamer-a740b4310/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Y0sefTamer">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="mailto:yosefmix12@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🌐 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/yosef-tamer-a740b4310/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Y0sefTamer"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" /></a>
-  <a href="mailto:yosefmix12@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <i>"Code is Law, but Security is Priority." 🛡️</i>
 </p>
-
----
-
-### ⚡ Fun Fact  
-> "I’m not just coding, I’m building the future 🚀"
